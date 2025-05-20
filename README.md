@@ -1,17 +1,16 @@
-# [harleyszhang](https://harleyszhang-github-io.vercel.app/)
+# [卡比](https://harleyszhang-github-io.vercel.app/)
 
-- 🌱 我是一名深度学习推理部署工程师，会一点 python/c++/triton/cuda 编程
-- 🔭 从事过 LLM 推理部署、视觉算法开发、模型压缩部署以及算法SDK开发工作，终身学习践行者。
+- 🌱 一窍不通大混子，会一点点点的 python/c++/triton/cuda 编程
+- 🔭 目前正在学习SGlang和vLLM等推理框架，争取早日学会吧。
 - 💡 喜欢开源，相信长期主义，崇尚极简主义。
 - 🤔 正在寻求大模型推理部署的工作, 📫 联系我: zhg5200211@outlook.com
 
-## 搜索引擎收录网站
+## 博客介绍
 
-1. 谷歌:[Google Search Console](https://search.google.com/search-console/welcome)
-2. 百度：[“百度搜索资源平台”](https://ziyuan.baidu.com/)
-3. 必应：[Bing Webmaster Tools](https://www.bing.com/webmasters)
+1.本博客的模板和里面的不少内容都是抄的真锋大佬的博客，大家如果要用这个模板和学习真锋佬的资料的话记得给点个star哦这是真锋大佬的主页(https://github.com/harleyszhang)
+2.博客里面的大部分资料都是我平常学习和整理的资料，里面很多内容并不是原创的，但是因为有的时间太久了，我记不得是从哪儿摘的了，因为我一开始只是想着整理着自己看的，放在这博客上主要是防止自己之后找不到这些资料的，算是备份，如果大家看到我没有引用的话可以告诉我引用一下，如果侵权的话，联系我，我马上就会删的。
+3.因为主包的英文不好，所以不会有英文版的。
 
-截止到 2024-11-01 本个人博客站已经被谷歌、百度和必应搜索站点管理工具收录。
 
 ## Features
 

@@ -1,14 +1,14 @@
 # Site Information
 title: 卡比
-description: "从事 LLM 推理部署、视觉算法开发、模型压缩部署以及算法SDK开发工作,终身学习践行者。"
+description: "一窍不通大混子，想要成为AI infra糕手。"
 url: https://c1lovez1.github.io
 repo: c1lovez1/c1lovez1.github.io
 lang: zh-CN
 timezone: Africa/El_Aaiun
 
 # Social Media and External URLs
-github: harleyszhang
-zhihu: tang-fen-44-49
+github: c1lovez1
+zhihu: 暂定
 menu:
   - title: "Categories"
     url: "/categories.html"
