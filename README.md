@@ -11,7 +11,7 @@
 
 + 博客里面的大部分资料都是我平常学习和整理的资料，里面很多内容并不是原创的，但是因为有的时间太久了，我记不得是从哪儿摘的了，因为我一开始只是想着整理着自己看的，放在这博客上主要是防止自己之后找不到这些资料的，算是备份，如果大家看到我没有引用的话可以告诉我引用一下，如果侵权的话，联系我，我马上就会删的。
 
-+ 因为主包的英文不好，所以不会有英文版的。
++ 因为主包的英文不好，而且很讨厌英文，所以不会有英文版的。
 
 
 ## 功能特色（Features）
@@ -31,7 +31,7 @@
   - 不使用 Google 字体，改为**国内代理字体**；
   - **延迟加载**非立即需要的资源；
   - 当 **Disqus** 评论系统加载失败时，会有**不错的替代建议**；
-  - 提供“请我喝咖啡”功能，支持**微信支付**。
+  - 提供"请我喝咖啡"功能，支持**微信支付**。
 
 
 ## PC Preview
@@ -46,23 +46,23 @@
 
 <img src="https://gw.alipayobjects.com/zos/k/lu/3.png" width="200"/>
 
-## How To Use
+## 如何使用
 
-1. [Fork the repo](https://github.com/tw93/tw93.github.io)
-2. Clone down the repo with `$ git clone git@github.com:username/reponame.git`
-3. Install bundler with `$ gem install bundler`
-4. Install gems with `$ bundle install`
-5. Run jekyll with `$ npm run dev`
-6. Begin hacking for your project,You need modify `about.md` and `_config.yml`
-7. For more details, read [documentation](http://jekyllrb.com/)
+1. [Fork 本仓库](https://github.com/tw93/tw93.github.io) (如果你是直接使用 c1lovez1 的仓库，可以改为 Fork c1lovez1/c1lovez1.github.io)
+2. 克隆你的仓库到本地：`$ git clone git@github.com:你的用户名/你的仓库名.git`
+3. 安装 bundler：`$ gem install bundler` (确保你已安装 Ruby 环境)
+4. 安装 gems：`$ bundle install`
+5. 运行 Jekyll (本地预览)：`$ npm run dev` (确保你已安装 Node.js 和 npm)
+6. 开始个性化你的项目，主要修改 `about.md` (关于页面) 和 `_config.yml` (站点配置)
+7. 更多详情，请阅读 [Jekyll 官方文档](http://jekyllrb.com/)
 
-## Support
+## 支持
 
-- **Feel free to fork. I'll appreciate it if you keep the author & github link at footer**.
-- Give it **a star** if you like, fork or just clone to use.
-- Having a problem getting something to work or want to know why I setup something in a certain way? [File a GitHub Issue](https://github.com/tw93/tw93.github.io/issues/new).
-- If you make something cool with this theme feel free to let me know.
+- **随意 Fork。如果你能在页脚保留原作者和 GitHub 链接，我将不胜感激**。
+- 如果你喜欢这个主题，请给它一个 **star**，或者 Fork/Clone 来使用。
+- 在使用过程中遇到问题，或想了解某些设置的原因？可以[提交 GitHub Issue](https://github.com/tw93/tw93.github.io/issues/new) (原主题的 Issues链接，如果 c1lovez1 的仓库也接受 Issues，可以修改链接)。
+- 如果你用这个主题做出了很酷的东西，欢迎告诉我。
 
-## License
+## 许可证
 
-- The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+- 本主题基于 [MIT 许可证](http://opensource.org/licenses/MIT) 开源。
