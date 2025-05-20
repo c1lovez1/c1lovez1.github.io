@@ -33,19 +33,6 @@
   - 当 **Disqus** 评论系统加载失败时，会有**不错的替代建议**；
   - 提供"请我喝咖啡"功能，支持**微信支付**。
 
-
-## PC Preview
-
-![demo.png](https://gw.alipayobjects.com/zos/k/nd/KOhiPv.jpg)
-
-## H5 Preview
-
-<img src="https://gw.alipayobjects.com/zos/k/yu/kkGDtF.jpg" width="270"/><img src="https://gw.alipayobjects.com/zos/k/2d/2.jpg" width="270"/><img src="https://gw.alipayobjects.com/zos/k/ki/3.jpg" width="270"/>
-
-## QR code
-
-<img src="https://gw.alipayobjects.com/zos/k/lu/3.png" width="200"/>
-
 ## 如何使用
 
 1. [Fork 本仓库](https://github.com/tw93/tw93.github.io) (如果你是直接使用 c1lovez1 的仓库，可以改为 Fork c1lovez1/c1lovez1.github.io)
@@ -56,12 +43,6 @@
 6. 开始个性化你的项目，主要修改 `about.md` (关于页面) 和 `_config.yml` (站点配置)
 7. 更多详情，请阅读 [Jekyll 官方文档](http://jekyllrb.com/)
 
-## 支持
-
-- **随意 Fork。如果你能在页脚保留原作者和 GitHub 链接，我将不胜感激**。
-- 如果你喜欢这个主题，请给它一个 **star**，或者 Fork/Clone 来使用。
-- 在使用过程中遇到问题，或想了解某些设置的原因？可以[提交 GitHub Issue](https://github.com/tw93/tw93.github.io/issues/new) (原主题的 Issues链接，如果 c1lovez1 的仓库也接受 Issues，可以修改链接)。
-- 如果你用这个主题做出了很酷的东西，欢迎告诉我。
 
 ## 许可证
 
